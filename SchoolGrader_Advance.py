@@ -1,3 +1,4 @@
+# author Fares Majdoub
 import random
 import re
 import tkinter as tk
